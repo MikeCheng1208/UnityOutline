@@ -50,4 +50,4 @@ Shader "Mike/Outlined Diffuse"
 }
 ```
 * 教學
-<http://zhi-yuan-chenge.blogspot.tw/2016/11/unityunlit-transparent.html>
+<http://zhi-yuan-chenge.blogspot.tw/2016/11/unityoutline.html>
